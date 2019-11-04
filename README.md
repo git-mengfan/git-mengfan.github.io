@@ -4,4 +4,4 @@
 
 ## 致谢
 
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) , [mzlogin](https://github.com/mzlogin/mzlogin.github.io)修改，感谢！
+本博客外观基于 [DONGChuan](https://dongchuan.github.io) , [mzlogin](https://github.com/mzlogin/mzlogin.github.io)修改，非常感谢！
