@@ -76,7 +76,7 @@ comments_provider: gitalk
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: mengfan1018
-    repo: blog
+    repo: blog-comments
     clientID: f14a67d33ff4694206dd
     clientSecret: 41ffbb37e4d87e68c7f76ef450511aec1ca672af
 # 在使用其它评论组件时可点击显示 Disqus
