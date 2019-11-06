@@ -43,11 +43,6 @@ navs:
     label: 关于
 
 # ---------------- #
-#       RSS        #
-# ---------------- #
-# subscribe_rss: /feed.xml
-
-# ---------------- #
 #      Jekyll      #
 # ---------------- #
 markdown: kramdown
@@ -68,10 +63,6 @@ gems:
     - jekyll-feed
     - jemoji
 #     - jekyll-mentions
-collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
 
 repository: mengfan1018/mengfan1018.github.io
 
