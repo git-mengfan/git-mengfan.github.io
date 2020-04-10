@@ -6,7 +6,7 @@ url: https://geekmf.top
 date_format: "ordinal"
 title: 404 Not Found
 subtitle: "从来如此，便对吗？"
-description: "孟凡的个人主页"
+description: "Mf是个大坏蛋的个人主页"
 keywords: Mf,
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -18,9 +18,9 @@ side_bar_repo_limit: 5
 author: Fan Meng
 organization:
 organization_url:
-github_username: mengfan1018
+github_username: git-mengfan
 location: Beijing, China
-email: mengfan9210@outlook.com
+email: meng_fan_@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -64,7 +64,7 @@ gems:
     - jemoji
 #     - jekyll-mentions
 
-repository: mengfan1018/mengfan1018.github.io
+repository: git-mengfan/git-mengfan.github.io
 
 # ---------------- #
 #      Comments    #
@@ -75,7 +75,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mengfan1018
+    owner: git-mengfan
     repo: blog-comments
     clientID: f14a67d33ff4694206dd
     clientSecret: 41ffbb37e4d87e68c7f76ef450511aec1ca672af

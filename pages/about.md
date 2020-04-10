@@ -2,14 +2,11 @@
 layout: page
 title: About
 description: 从来如此，便对吗？
-keywords: Fan Meng, 孟凡
+keywords: Fan Meng
 comments: true
 menu: 关于
 permalink: /about/
 ---
-优秀的人成为模范，不是为了设定天花板，而是为了让人去超越。
-我不算是一个厉害的猿，但这并不影响我想成为，去成为厉害的猿。
-
 才发现的一段话，与大家共勉。
 愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话。
 能做事的做事，能发声的发声。
