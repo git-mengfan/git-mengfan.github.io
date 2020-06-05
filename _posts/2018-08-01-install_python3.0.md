@@ -88,7 +88,6 @@ CentOS7系统自带了Python2环境，如果对于Python3环境有需求，那�
 9，方式二：步骤很简单，只是加两个3就可以了。
 ```
 # cd /usr/bin
-# mv python python_old
 # ln -s /usr/local/python3/bin/python3.7 /usr/bin/python3
 # ln -s /usr/local/python3/bin/pip3.7 /usr/bin/pip3
 ```
