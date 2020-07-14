@@ -34,10 +34,10 @@ navs:
     href: /categories/
     label: 分类
 
-  # -
-  #   href: /links/
-  #   label: 链接
-  #
+   -
+     href: /links/
+     label: 链接
+
   -
     href: /about/
     label: 关于
@@ -94,5 +94,5 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-# google:
-#     analytics_id: UA-80669434-1
+ google:
+     analytics_id: UA-172649926-1
