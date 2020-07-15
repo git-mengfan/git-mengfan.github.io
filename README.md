@@ -1,7 +1,21 @@
 ## 简介
-
-这是我自己的个人主页，一开始主要用于测试git page功能，后来添加了个人域名，也算做存放自己学习记录的一个地方。
+这是我自己的个人主页，其目的主要有以下几个方面：
+1. 练习使用git page搭建一个个人静态主页
+2. 将自己平时的学习笔记添加进来，也算是有个学习记录
+目前来讲基本实现了以下功能：
+1. 博客文章的正常显示
+2. 关于页面
+3. 分类功能
+4. 网站访问量统计
+5. 评论
+6. 搜索功能
+其它：
+1. 欢迎大家指出存在的问题或者提出修改建议
+2. 由于技术有限，目前的实现很大部分基于原作者的实现，个性化的东西几乎没有，之后可能会随着自己技术的增长添加一些个性化的东西
 
 ## 致谢
 
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) , [mzlogin](https://github.com/mzlogin/mzlogin.github.io)修改，非常感谢！
+本博客外观基于 [DONGChuan](https://dongchuan.github.io) , 
+[mzlogin](https://github.com/mzlogin/mzlogin.github.io) 修改，非常感谢！
+本博客的访问量统计由[不蒜子](https://busuanzi.ibruce.info/) 提供支持，非常感谢！
+欢迎大家支持原作者，也欢迎大家积极提出批评建议。
