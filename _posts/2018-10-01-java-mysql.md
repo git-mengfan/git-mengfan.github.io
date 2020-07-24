@@ -5,7 +5,6 @@ categories: Blog
 description: Java项目连接MySQL数据库
 keywords: Java，MySQL
 ---
-
 ### 需求
 新项目需要用java实现后台，需要用连接到数据库，作为学习过程记录了本文档。
 
@@ -24,6 +23,7 @@ keywords: Java，MySQL
   <version>8.0.21</version>
 </dependency>
 ```
+
 2. 代码中引用，并开始编程：
 ```
 package demo;
@@ -44,6 +44,7 @@ public class Demo {
 	}
 }
 ```
+
 3. 注意事项：
 - 驱动为"com.mysql.cj.jdbc.Driver"，老版本中为“com.mysql.jdbc.Driver”
 - 时区需要修改为本地时区
