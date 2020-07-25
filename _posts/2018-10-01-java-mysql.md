@@ -15,7 +15,7 @@ keywords: Java，MySQL
 - Maven 3.6.3
 
 ### 操作步骤
-1. 在pom.xml文件中添加依赖：
+- 在pom.xml文件中添加依赖：
 
 ```
 <dependency>
@@ -25,7 +25,7 @@ keywords: Java，MySQL
 </dependency>
 ```
 
-2. 代码中引用，并开始编程：
+- 代码中引用，并开始编程：
 
 ```
 package demo;
@@ -47,6 +47,6 @@ public class Demo {
 }
 ```
 
-3. 注意事项：
+### 注意事项：
 - 驱动为"com.mysql.cj.jdbc.Driver"，老版本中为“com.mysql.jdbc.Driver”
 - 时区需要修改为本地时区
