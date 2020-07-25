@@ -16,6 +16,7 @@ keywords: Java，MySQL
 
 ### 操作步骤
 1. 在pom.xml文件中添加依赖：
+
 ```
 <dependency>
   <groupId>mysql</groupId>
@@ -25,6 +26,7 @@ keywords: Java，MySQL
 ```
 
 2. 代码中引用，并开始编程：
+
 ```
 package demo;
 import java.sql.Connection;
