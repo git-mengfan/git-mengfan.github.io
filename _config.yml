@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: https://geekmf.top
-url: https://geekmf.top
+baseurl: https://github.com/git-mengfan/git-mengfan.github.io
+url: https://github.com/git-mengfan/git-mengfan.github.io
 date_format: "ordinal"
 title: 404 Not Found
 subtitle: "从来如此，便对吗？"
