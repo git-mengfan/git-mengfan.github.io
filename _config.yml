@@ -98,5 +98,5 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-google:
-    analytics_id: UA-172649926-1
+#google:
+#    analytics_id: UA-172649926-1
