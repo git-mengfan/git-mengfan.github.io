@@ -44,11 +44,9 @@
 <link rel="stylesheet" href="{{ site.url }}/assets/css/globals/prism.css">
 <script>
     jQuery(document).ready(function ($) {
-        // geopattern
         $('.geopattern').each(function () {
             $(this).geopattern($(this).data('pattern-id'));
         });
-        // hljs.initHighlightingOnLoad();
     });
 </script>
 
@@ -101,7 +99,6 @@
 </div>
 {% endif %}
 {% if site.components.busuanzi.enabled %}
-<!--<script src="{{ site.url }}/assets/js/busuanzi.pure.mini.js"></script>-->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 {% endif %}
 </body>
