@@ -5,9 +5,7 @@ layout: default
     <div class="container">
         <div class="columns">
             <div class="column three-fourths">
-                <div class="collection-title">
-                    <h1 class="collection-header">{{ page.title }}</h1>
-                </div>
+                <div class="collection-title"><h1 class="collection-header">{{ page.title }}</h1></div>
             </div>
         </div>
     </div>
@@ -15,15 +13,9 @@ layout: default
 <section class="container content">
     <div class="columns">
         <div class="column three-fourths">
-            <article class="article-content markdown-body">
-                {{ content }}
-            </article>
-            <div class="share">
-                {% include sns-share.html %}
-            </div>
-            <div class="comment">
-                {% include comments.html %}
-            </div>
+            <article class="article-content markdown-body">{{ content }}</article>
+            <div class="share">{% include sns-share.html %}</div>
+            <div class="comment">{% include comments.html %}</div>
         </div>
         <div class="column one-fourth">
             {% include sidebar-search.html %}
