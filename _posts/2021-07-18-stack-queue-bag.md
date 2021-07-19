@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 数据结构-栈、队列
-categories: [数据结构]
+categories: 数据结构
 description: 数据结构栈和队列
 keywords: stack, queue
 ---
